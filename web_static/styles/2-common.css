@@ -1,0 +1,11 @@
+body {
+      margin: 0;
+      padding: 0;
+}
+
+span {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+}
+
