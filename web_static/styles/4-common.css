@@ -19,6 +19,7 @@ a.logo {
 }
 
 span {
+  /* centers text */
   display: inline-block;
   vertical-align: middle;
   line-height: normal;
