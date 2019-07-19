@@ -1,6 +1,5 @@
 section.places {
   padding: 25px;
-  margin: 0;
   width: 100%;
   box-sizing: border-box;
 }
@@ -13,8 +12,6 @@ div.places {
 }
 
 section.places h1 {
-  padding: 0;
-  margin: 0;
   font-size: 30px;
   top: 0;
   left: 0;
@@ -34,7 +31,5 @@ section.places article {
 
 section.places article h2 {
   font-size: 30px;
-  margin: 0;
-  padding: 0;
   padding-bottom: 25px;
 }

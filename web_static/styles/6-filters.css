@@ -24,24 +24,18 @@ section.filters div:first-child {
 }
 
 section.filters div h3 {
-  margin: 0;
-  padding: 0;
   padding-bottom: 5px;
   padding-left: 50px;
   font-weight: 600;
 }
 
 section.filters div h4 {
-  margin: 0;
-  padding: 0;
   padding-left: 50px;
   font-weight: 400;
   font-size: 14px;
 }
 
 section.filters div ul.popover {
-  margin: 0;
-  padding: 0;
   margin-top: 70px;
   padding-left: 50px;
   padding-top: 20px;
@@ -70,14 +64,10 @@ section.filters div ul.popover li {
 }
 
 section.filters div ul.popover ul {
-  margin: 0;
-  padding: 0;
   padding-left: 25px;  
 }
 
 section.filters div ul.popover h2 {
-  margin: 0;
-  padding: 0;
   padding-bottom: 5px;
   font-size: 16px;
 }
