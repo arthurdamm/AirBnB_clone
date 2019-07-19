@@ -128,5 +128,30 @@ section.places article div.reviews li {
 }
 
 section.places article div.amenities li {
-	
+  display: flex;
+  align-items: center;
+}
+
+div.icon_tv,
+div.icon_wifi,
+div.icon_pets {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  height: 0;
+  width: 5%;
+  padding-top: 5%;
+  margin-right: 2%;
+}
+
+div.icon_tv {
+  background-image: url("../images/icon_tv.png");
+}
+
+div.icon_wifi {
+  background-image: url("../images/icon_wifi.png");
+}
+
+div.icon_pets {
+  background-image: url("../images/icon_pets.png");
 }
