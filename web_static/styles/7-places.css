@@ -4,7 +4,7 @@ section.places {
   box-sizing: border-box;
 }
 
-div.places {
+div.places-container {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
@@ -12,15 +12,15 @@ div.places {
 }
 
 section.places h1 {
-  font-size: 30px;
   top: 0;
   left: 0;
+  font-size: 30px;
 }
 
 section.places article {
+  width: 390px;
   padding: 20px;
   margin: 20px;
-  width: 390px;
   border: 1px solid #FF5A5F;
   border-radius: 4px;
   display: flex;

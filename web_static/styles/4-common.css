@@ -9,23 +9,8 @@ body {
   font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
-a.logo {
-  background-image: url("../images/logo.png");
-  background-repeat: no-repeat;
-  background-position: center;
-  display: inline-block;
-  width: 142px;
-  height: 60px;
-  vertical-align: middle;
-  position: relative;
-  left: 20px;
-}
-
 span {
-  /* centers text */
-  display: inline-block;
   vertical-align: middle;
-  line-height: normal;
 }
 
 .container {

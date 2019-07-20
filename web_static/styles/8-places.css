@@ -4,7 +4,7 @@ section.places {
   box-sizing: border-box;
 }
 
-div.places {
+div.places-container {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
@@ -45,11 +45,12 @@ section.places article div.title div.price_by_night {
   position: absolute;
   top: 0;
   right: 0;
-  font-size: 27px;
+  font-size: 30px;
   color: #FF5A5F;
   border: 4px #FF5A5F solid;
   border-radius: 50%;
   text-align: center;
+  overflow: hidden;
 }
 
 section.places article div.information {
@@ -78,7 +79,6 @@ section.places article div.information div.logo {
   height: 75%;
   background-repeat: no-repeat;
   background-position: center;
-  
   position: relative;
 }
 

@@ -4,15 +4,13 @@ section.filters {
   width: 100%;
   border: 1px #DDDDDD solid;
   border-radius: 4px;
-  /* display: table; */
   display: flex;
 }
 
 section.filters div.locations,
 section.filters div.amenities {
-  width: 25%;
   height: 100%;
-  /* border: 1px solid red; */
+  width: 25%;
   box-sizing: border-box;
   display: flex;  
   flex-direction: column;
@@ -21,12 +19,12 @@ section.filters div.amenities {
 }
 
 section.filters div:first-child {
-  border-right: 1px #DDDDDD solid; /* first child */
+  border-right: 1px #DDDDDD solid;
 }
 
 section.filters div h3 {
   padding-bottom: 5px;
-  font-weight: 600
+  font-weight: 600;
 }
 
 section.filters div h4 {
