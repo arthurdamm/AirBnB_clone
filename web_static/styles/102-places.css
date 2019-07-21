@@ -14,7 +14,7 @@ div.places-container {
 section.places h1 {
   top: 0;
   left: 0;
-  font-size: 30px;
+  font-size: 2em;
 }
 
 section.places article {
@@ -33,7 +33,7 @@ section.places article div.title {
 }
 section.places article div.title h2 {
   padding-bottom: 25px;
-  font-size: 30px;
+  font-size: 2em;
   text-align: center;
 }
 
@@ -45,7 +45,7 @@ section.places article div.title div.price_by_night {
   position: absolute;
   top: 0;
   right: 0;
-  font-size: 30px;
+  font-size: 2em;
   color: #FF5A5F;
   border: 4px #FF5A5F solid;
   border-radius: 50%;
@@ -118,7 +118,7 @@ section.places article div.reviews {
 
 section.places article div.amenities h2,
 section.places article div.reviews h2 {
-  font-size: 16px;
+  font-size: 1em;
   border-bottom: 1px #DDDDDD solid;
 }
 
