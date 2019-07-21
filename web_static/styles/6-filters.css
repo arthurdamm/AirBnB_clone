@@ -41,12 +41,13 @@ section.filters div ul.popover {
   padding-top: 20px;
   padding-bottom: 20px;
   box-sizing: border-box;
-  width: calc(100% + 0px);
+  width: calc(100% + 2px);
   background-color: #FAFAFA;
   border: 1px #DDDDDD solid;
   border-radius: 4px;
   position: absolute;
   top: 0;
+  left: -1px;
   display: none;
   z-index: 1;
 }
